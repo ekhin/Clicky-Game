@@ -1,6 +1,6 @@
 # Clicky-Game
 
-## Deployed GitHub Page:
+## Deployed Project link:
 
 https://radiant-ridge-35690.herokuapp.com/
 
