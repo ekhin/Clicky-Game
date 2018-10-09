@@ -2,7 +2,7 @@
 
 ## Deployed GitHub Page:
 
-https://ekhin.github.io/Clicky-Game/
+https://radiant-ridge-35690.herokuapp.com/
 
 ## Overview
 
