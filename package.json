@@ -10,7 +10,7 @@
     "react-scripts": "2.0.4",
     "reactstrap": "^6.5.0"
   },
-  "homepage": "https://eikhin.github.io/Clicky-Game",
+  "homepage": "https://ekhin.github.io/Clicky-Game",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d master build",
